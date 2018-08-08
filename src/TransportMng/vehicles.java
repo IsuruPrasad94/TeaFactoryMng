@@ -19,6 +19,10 @@ public class vehicles extends javax.swing.JInternalFrame {
     public vehicles() {
         initComponents();
     }
+    
+    public void addVehicle(){
+    
+    }
 
     /**
      * This method is called from within the constructor to initialize the form.
